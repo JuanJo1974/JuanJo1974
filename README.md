@@ -57,9 +57,9 @@ perfil = {
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-josé-fernández-torres-60b17a97)
 [![Portfolio](https://img.shields.io/badge/Portfolio-c8a96e?style=flat-square&logo=github&logoColor=black)](https://JuanJo1974.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jjoseft@hotmail.com)
 
 ---
 
